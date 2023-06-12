@@ -15,11 +15,13 @@ SPRING반 5조
             <th style="text-align:center;" ></th>
             <th style="text-align:center;" ></th>
             <th style="text-align:center;" ></th>
+            <th style="text-align:center;" ></th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><img width="200" src="" /> </td>
+            <td><img width="200" src="" /></td>
+            <td><img width="200" src="" /></td>
             <td><img width="200" src="" /></td>
             <td><img width="200" src="" /></td>
             <td><img width="200" src="" /></td>
@@ -29,8 +31,10 @@ SPRING반 5조
             <td><a href=""></a></td>
             <td><a href=""></a></td>
             <td><a href=""></a></td>
+            <td><a href=""></a></td>
         </tr>
         <tr>
+            <td width="200"></td>
             <td width="200"></td>
             <td width="200"></td>
             <td width="200"></td>
