@@ -20,11 +20,11 @@ SPRING반 5조
     </thead>
     <tbody>
         <tr>
-            <td><img width="200" src="" /></td>
-            <td><img width="200" src="" /></td>
-            <td><img width="200" src="" /></td>
-            <td><img width="200" src="" /></td>
-            <td><img width="200" src="" /></td>
+            <td><img width="200" src="http://img.marieclairekorea.com/2017/01/mck_586f4006b4e9f-375x375.jpg" /> </td>
+            <td><img width="200" src="http://img.marieclairekorea.com/2017/01/mck_586f3a834b707-375x375.jpg" /></td>
+            <td><img width="200" src="http://img.marieclairekorea.com/2017/01/mck_586f404146910-375x375.jpg" /></td>
+            <td><img width="200" src="http://img.marieclairekorea.com/2017/01/mck_586f40328a086-375x375.jpg" /></td>
+            <td><img width="200" src="http://img.marieclairekorea.com/2017/01/mck_586f402a95859-375x375.jpg" /></td>
         </tr>
         <tr>
             <td><a href=""></a></td>
