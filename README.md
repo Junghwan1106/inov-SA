@@ -34,11 +34,11 @@ SPRING반 5조
             <td><a href=""></a></td>
         </tr>
         <tr>
-            <td width="200"></td>
-            <td width="200"></td>
-            <td width="200"></td>
-            <td width="200"></td>
-            <td width="200"></td>
+            <td width="5조 화이팅!"></td>
+            <td width="몰라도 계속 보자"></td>
+            <td width="퐈이팅"></td>
+            <td width="될 때 까지 해보자"></td>
+            <td width="화이팅!"></td>
         </tr>
     </tbody>
 </table>
