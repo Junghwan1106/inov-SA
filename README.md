@@ -13,7 +13,7 @@ SPRING반 5조
         <tr >
             <th style="text-align:center;" >박정환</th>
             <th style="text-align:center;" >안종현</th>
-            <th style="text-align:center;" ></th>
+            <th style="text-align:center;" >황은혜</th>
             <th style="text-align:center;" ></th>
             <th style="text-align:center;" ></th>
         </tr>
